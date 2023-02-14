@@ -1,7 +1,7 @@
 {
-  "name": "typescript-starter",
+  "name": "Cutshort",
   "version": "1.0.0",
-  "description": "A basic typescript app starter for 2023.",
+  "description": "Cutshort assignment ",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
