@@ -1,5 +1,5 @@
 import express from 'express';
-import { PostRepo } from '../repo/PostRepo';
+import { PostRepo } from '../repo/postRepo';
 import { getMongoId } from '../utils/helpers';
 const router = express.Router();
 
